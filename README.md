@@ -34,5 +34,4 @@ Currently four types of relations are supported: **Schools_Attended, Work_for, L
 | `main.py`                      | Main function that handles the control flow                                                        | 
 | `utils.py`                     | Utilities for processing documents + urls                                                          |
 | `spacy_help_functions.py`      | Utilities for processing documents w/ spaCy                                                        |
-|                                | sourced from [here](http://www.cs.columbia.edu/~gravano/cs6111/Proj2/spacy_help_functions.py)      |
 
